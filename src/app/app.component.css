@@ -1,0 +1,11 @@
+
+.selector div{  }
+
+.selector .first{  font-weight: normal;
+	color: purple; }
+
+.selector .second{ font-weight: bold;
+		color: orange; }
+
+.selector .third{ font-style: italic;
+			color: brown; }
